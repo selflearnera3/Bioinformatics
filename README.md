@@ -1,2 +1,2 @@
 # Bioinformatics
-this is where I start learning bioinformatics
+this is where I start learning bioinformatics Linux system!!!
